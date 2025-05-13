@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 60px auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #2c3e50;
+  }
+  
+  h2 {
+    color: #34495e;
+    font-weight: normal;
+  }
+  
+  h3 {
+    margin-top: 20px;
+    color: #2c3e50;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
+  .botao {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #0072b1;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .botao:hover {
+    background-color: #005885;
+  }
